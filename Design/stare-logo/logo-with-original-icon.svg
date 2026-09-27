@@ -1,0 +1,17 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <image x="90" y="8" width="460" height="460"
+         href="../Rudolf Kralik Mallets/Assets.xcassets/AppIcon.appiconset/icon-1024.png"
+         xlink:href="../Rudolf Kralik Mallets/Assets.xcassets/AppIcon.appiconset/icon-1024.png"/>
+
+  <text x="320" y="530" text-anchor="middle"
+        font-family="'Futura', 'Avenir Next', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="700" font-size="38" letter-spacing="4" fill="#1A1A1A">
+    RUDOLF KRÁLÍK
+  </text>
+
+  <text x="320" y="567" text-anchor="middle"
+        font-family="'Futura', 'Avenir Next', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="500" font-size="14" letter-spacing="1.6" fill="#1A1A1A">
+    VÝROBA PALIČEK PRO BICÍ NÁSTROJE
+  </text>
+</svg>

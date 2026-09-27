@@ -1,0 +1,18 @@
+Logo Rudolf Králík – výroba paliček pro bicí nástroje
+
+14-panova-fletna = varianty 14a–14d (značka s Panovou flétnou)
+15-tympan        = varianty 15a–15e (značka s tympánem)
+
+svg/  vektorové soubory (tisk, laser, web). Loga s textem používají písmo
+      Archivo (ExtraBold 800, šířka 115 % / Medium 500). Na webu se načte
+      z Google Fonts automaticky, v grafickém programu musí být nainstalované.
+png/  značky a avatary s průhledným pozadím v několika velikostech.
+      Malá značka (7 trubek) je pro velikosti pod cca 24 px a vypalování.
+
+Barvy:
+  černá      #161412
+  světlá     #f3efe8
+  tmavé pozadí #141210
+  dřevo (linka)          #b66b31
+  světlé dřevo (avatar, linka na tmavém) #d29f6d
+  podtitul   #4a443e / na tmavém #b8b0a4

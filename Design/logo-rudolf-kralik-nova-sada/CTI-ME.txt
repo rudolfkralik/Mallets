@@ -1,0 +1,18 @@
+Logo Rudolf Králík – výroba paliček pro bicí nástroje
+Kompletní sada (nahrazuje všechny předchozí soubory)
+
+1-znacky-vektor   Samotné značky bez textu – tympán 21c, marimba a malá marimba (7 trubek,
+                  pro favicon a vypalování). SVG i PDF, černá / bílá / dřevo.
+                  Čisté křivky, průhledné pozadí, mezery jsou skutečné otvory.
+2-znacky-png      Stejné značky jako PNG s průhledným pozadím v několika velikostech.
+3-avatary         Kruhové avatary (tmavý, dřevo, černý) jako SVG a PNG.
+4-loga-s-textem   Vodorovná a centrovaná loga: barevné, černé, bílé (linka dřevo),
+                  bílé celé, světlé na tmavém pozadí.
+5-textova-cast    Samotný text s linkou, černý a bílý.
+
+Písmo: Archivo (ExtraBold 800 šířka 115 % / Medium 500). V souborech s textem je text
+zatím jako písmo, ne křivky – v grafickém programu musí být Archivo nainstalované.
+Bílé soubory nejsou na bílém pozadí vidět – jsou určené na tmavé podklady.
+
+Barvy: černá #161412 · bílá #ffffff · světlá #f3efe8 · tmavé pozadí #141210
+       dřevo #b66b31 · světlé dřevo #d29f6d · podtitul #4a443e / na tmavém #b8b0a4
